@@ -57,6 +57,7 @@ We welcome contributions to this list! If you have successfully overclocked a mo
       - **Max Resolution:** [Insert resolution]  
       - **Max Refresh Rate:** [Insert refresh rate]  
       - **Max Bit Depth:** [Insert bit depth]
+      - **Add additional info if applicable**
       - **Tested by:** [GitHub Username](GitHub Profile Link)
     ```
 3. Submit a pull request.
