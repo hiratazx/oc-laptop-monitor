@@ -4,10 +4,13 @@ A curated list of monitors or laptop displays with their overclockable specifica
 
 ## List of Overclockable Monitors/Laptop Displays
 
+This is a list of overclockable monitors and laptop displays that have been tested by the community.  
+
 • **Lenovo CMN14D6** (as known as Lenovo IdeaPad S145-14API 81UV display)  
   - **Max Resolution:** 2560x1440  
   - **Max Refresh Rate:** 72 Hz  
-  - **Max Bit Depth:** 6 bit  
+  - **Max Bit Depth:** 6 bit
+  - **Tested by:** [ItzKaguya](https://github.com/hiratazx)
 
 ---
 
@@ -53,7 +56,8 @@ We welcome contributions to this list! If you have successfully overclocked a mo
     • **Model Name** (additional details if applicable)  
       - **Max Resolution:** [Insert resolution]  
       - **Max Refresh Rate:** [Insert refresh rate]  
-      - **Max Bit Depth:** [Insert bit depth]  
+      - **Max Bit Depth:** [Insert bit depth]
+      - **Tested by:** [GitHub Username](GitHub Profile Link)
     ```
 3. Submit a pull request.
 
